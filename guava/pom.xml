@@ -27,7 +27,7 @@ Guava (http://code.google.com/p/guava-libraries/) types (currently mostly just c
 
     <!-- 30-Oct-2018, tatu: as per [datatypes-collections#34], allow up to 25 -->
     <!-- 19-Jul-2019, tatu: and why not further? -->
-    <version.guava.osgi>[${version.guava}.0,28)</version.guava.osgi>
+    <version.guava.osgi>[${version.guava}.0,42)</version.guava.osgi>
 
     <!-- Generate PackageVersion.java into this directory. -->
     <packageVersion.dir>com/fasterxml/jackson/datatype/guava</packageVersion.dir>
